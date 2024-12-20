@@ -1,6 +1,6 @@
 # UPI Fraud Detection Data Analysis Project
 
-This project aims to analyze UPI (Unified Payments Interface) transaction data to detect fraudulent activities using data science and machine learning techniques. Through this analysis, we identify patterns in fraudulent transactions and build a predictive model to flag potential fraud in real-time.
+This project aims to analyze UPI (Unified Payments Interface) transaction data to detect fraudulent activities using data Analysis techniques. Through this analysis, we identify patterns in fraudulent transactions and build a predictive model to flag potential fraud in real-time.
 
 ---
 
