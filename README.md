@@ -1,6 +1,6 @@
 # Anudip Foundation Data Analytics Projects
 
-![Anudip Foundation](https://sl.bing.net/gB0NCXpQbqC)
+![Anudip Foundation](https://atasctkm.com/assets/img/supporters/3.png)
 
 This repository contains various projects developed as part of the **Anudip Foundation's Data Analytics Training Programme**. The projects showcase essential skills in **data cleaning, exploratory analysis, visualization, and machine learning**. Each project is designed to solve real-world problems across different industries, offering valuable insights through data-driven approaches.
 
