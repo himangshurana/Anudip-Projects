@@ -8,8 +8,6 @@ This project aims to analyze UPI (Unified Payments Interface) transaction data t
 
 The rise of digital payments has made financial transactions quicker and more convenient. UPI, which has grown significantly in India, has been subject to fraudulent activities. This project addresses the need for early fraud detection in UPI transactions to protect users and maintain the integrity of financial systems.
 
-By analyzing transaction data, this project develops a machine learning model to detect fraudulent transactions based on various features such as transaction amount, time, and merchant type.
-
 ---
 
 ## Objectives
