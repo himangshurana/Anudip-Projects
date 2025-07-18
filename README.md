@@ -12,14 +12,13 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
 </div>
 
 ## 📋 Overview
 
-This repository showcases a collection of data analytics projects developed as part of the **Anudip Foundation's Data Analytics Training Programme**. These projects demonstrate proficiency in **data cleaning, exploratory analysis, visualization, and machine learning**, addressing real-world challenges across various industries through data-driven solutions.
+This repository showcases a collection of data analytics projects developed as part of the **Anudip Foundation's Data Analytics Training Programme**. These projects demonstrate proficiency in **data cleaning, exploratory analysis, and visualization**, addressing real-world challenges across various industries through data-driven solutions.
 
 ## 🛠️ Technical Skills Demonstrated
 
@@ -36,11 +35,11 @@ This repository showcases a collection of data analytics projects developed as p
 </td>
 <td width="50%">
 
-### 🤖 **Machine Learning & Analytics**
+### 🔍 **Data Analytics & Processing**
 - **Data Cleaning**: Preprocessing and transformation
 - **Exploratory Data Analysis**: Pattern identification
-- **Predictive Modeling**: Using Scikit-learn
-- **Fraud Detection**: Anomaly detection algorithms
+- **Data Visualization**: Creating meaningful charts and graphs
+- **Business Intelligence**: Dashboard development and reporting
 
 </td>
 </tr>
@@ -73,17 +72,25 @@ This repository showcases a collection of data analytics projects developed as p
 
 </details>
 
-### 🚨 **2. UPI Fraud Detection System**
+### 🚨 **2. UPI Transaction Analysis**
 <details>
 <summary>Click to expand project details</summary>
 
-**Objective**: Develop a machine learning model to detect fraudulent UPI transactions
+**Objective**: Analyze UPI transaction patterns to identify trends and insights
 
 **Key Features**:
 - 🔍 Transaction pattern analysis
-- 🤖 Anomaly detection algorithms
-- 📊 Real-time fraud scoring
-- 📈 Performance metrics evaluation
-- 🛡️ Risk assessment framework
+- 📊 Statistical analysis of payment behaviors
+- 📈 Trend identification and visualization
+- 🛡️ Risk assessment through data analysis
+- 💹 Transaction volume and frequency analysis
 
-**Technologies Used**: Python, Scikit-learn, Pandas, Seaborn
+**Technologies Used**: Python, Pandas, Matplotlib, Seaborn
+
+**Key Insights**:
+- Transaction volume trends
+- Peak usage patterns
+- Category-wise spending analysis
+- Geographic distribution of transactions
+
+</details>
